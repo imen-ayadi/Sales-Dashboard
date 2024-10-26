@@ -82,3 +82,49 @@ The dashboard is organized into multiple sections, each designed to provide targ
      - **Bar Chart**: Visualization of top `N` products based on total revenue.
    - **Insight**: Identifies key revenue drivers and top-performing products for sales strategy.
    -
+   ## 🛠️ How to Use the Dashboard
+
+### Setup Instructions
+1. **Prerequisites**: Ensure Power BI Desktop is installed.
+2. **Download**: Clone or download the `.pbix` file from this repository.
+3. **Open File**: Open the `.pbix` file in Power BI Desktop.
+4. **Data Refresh**: If connected to live data sources, refresh the data to ensure visuals are up-to-date.
+
+### Navigating the Dashboard
+1. **Home Page**: Start at the Home Page to select a section for analysis.
+2. **Interactive Filters**: Each page includes slicers and filters, such as `Year`, `Product Category`, and `Subcategory`, for focused analysis.
+3. **Drill-Downs**: Click on visuals to explore underlying details and segment data further.
+4. **Tooltips**: Hover over data points for additional metrics and insights.
+
+---
+
+## 🔍 Data Insights & Interpretation Guide
+
+- **Revenue Analysis**: The Product Analysis page allows you to see which categories drive the highest revenue, helping identify profitable areas.
+- **Customer Segmentation**: Use Customer Insights to determine which demographics contribute most to sales, informing targeted marketing strategies.
+- **Regional Performance**: The Geographical Analysis highlights regions with high sales volumes, guiding regional sales strategies.
+- **Financial Health**: The Financial Performance page offers a quick assessment of whether revenue targets are being met, with quarterly breakdowns for seasonality insights.
+- **Top Product Ranking**: The Product Ranking page showcases the best performers, helping focus on products that maximize revenue.
+
+---
+
+## 📷 Screenshots
+
+Below are additional screenshots for a better understanding of the dashboard's visual layout:
+
+1. **Top Performers by Revenue**:
+   ![Top Performers](path/to/top-performers.png)
+2. **Orders by Country**:
+   ![Orders by Country](path/to/orders-by-country.png)
+3. **Revenue by Occupation**:
+   ![Revenue by Occupation](path/to/revenue-by-occupation.png)
+4. **Monthly Revenue Target Achievement**:
+   ![Revenue Target](path/to/revenue-target.png)
+
+---
+
+## 📝 License
+This project is licensed under the MIT License. Please see the [LICENSE](LICENSE) file for more information.
+
+---
+
