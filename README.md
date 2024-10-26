@@ -39,7 +39,8 @@ The dashboard is organized into multiple sections, each designed to provide targ
 ### 1. Home Page
    - **Purpose**: Acts as a landing page, offering quick navigation options to each analytical section: **Product, Customer, Product Details, Region,** and **Ranking**.
    - **Key Visual**: Icons for each section for intuitive navigation.
-   - ![Home Page](path/to/home-page.png)
+   - ![Screenshot_112](https://github.com/user-attachments/assets/8373e7fc-5fbe-461d-b1a9-165472725baf)
+
 
 ### 2. Product Analysis
    - **Content**: Analyzes sales performance by product category and subcategory.
@@ -47,7 +48,8 @@ The dashboard is organized into multiple sections, each designed to provide targ
      - **Sankey Diagram**: Visualizes revenue flow by product category and subcategory.
      - **Bar Chart**: Year-over-year revenue comparison for top product categories.
    - **Insight**: Identifies top-performing products, helping in strategic product planning.
-   - ![Product Analysis](path/to/product-analysis.png)
+   - ![Screenshot_113](https://github.com/user-attachments/assets/267ba407-7c91-4724-a269-7f05fbee1b9c)
+
 
 ### 3. Customer Insights
    - **Content**: Examines customer demographics and purchase patterns.
@@ -56,7 +58,7 @@ The dashboard is organized into multiple sections, each designed to provide targ
      - **Bar Chart**: Sales by customer `Occupation`.
      - **Stacked Bar Chart**: Sales by product and gender.
    - **Insight**: Provides a clear view of customer profiles, assisting in targeted marketing efforts.
-   - ![Customer Insights](path/to/customer-insights.png)
+   - ![Screenshot_114](https://github.com/user-attachments/assets/b66ec163-bf82-4f94-bb0c-4d5cabcf312f)
 
 ### 4. Geographical Analysis
    - **Content**: Visualizes sales across different countries and income levels.
@@ -64,7 +66,8 @@ The dashboard is organized into multiple sections, each designed to provide targ
      - **Map**: Interactive map highlighting total orders by country, segmented by income level.
      - **Flag Icons**: Country filters for an easy selection of regions.
    - **Insight**: Reveals geographical sales distribution, identifying high-potential regions for expansion.
-   - ![Geographical Analysis](path/to/geographical-analysis.png)
+   - ![Screenshot_116](https://github.com/user-attachments/assets/586e4ac6-9cc5-43da-9f8a-2cde4fc2d8fc)
+
 
 ### 5. Financial Performance
    - **Content**: Tracks quarterly financial performance and revenue targets.
@@ -73,7 +76,7 @@ The dashboard is organized into multiple sections, each designed to provide targ
      - **Bar Chart**: Profit analysis by quarter.
      - **Pie Chart**: Cost breakdown by subcategory.
    - **Insight**: Helps assess progress towards financial goals and analyze profitability across categories.
-   - ![Financial Performance](path/to/financial-performance.png)
+![Screenshot_118](https://github.com/user-attachments/assets/900ba465-354f-41f6-a073-b7719299c58a)
 
 ### 6. Product Ranking
    - **Content**: Ranks top products by revenue and profit contribution.
@@ -81,7 +84,8 @@ The dashboard is organized into multiple sections, each designed to provide targ
      - **Table**: Detailed breakdown of top products with revenue and profit metrics.
      - **Bar Chart**: Visualization of top `N` products based on total revenue.
    - **Insight**: Identifies key revenue drivers and top-performing products for sales strategy.
-   -
+   -![Screenshot_117](https://github.com/user-attachments/assets/c6efedd5-bddd-4edf-853d-33665bb1d34c)
+
    ## 🛠️ How to Use the Dashboard
 
 ### Setup Instructions
@@ -105,21 +109,6 @@ The dashboard is organized into multiple sections, each designed to provide targ
 - **Regional Performance**: The Geographical Analysis highlights regions with high sales volumes, guiding regional sales strategies.
 - **Financial Health**: The Financial Performance page offers a quick assessment of whether revenue targets are being met, with quarterly breakdowns for seasonality insights.
 - **Top Product Ranking**: The Product Ranking page showcases the best performers, helping focus on products that maximize revenue.
-
----
-
-## 📷 Screenshots
-
-Below are additional screenshots for a better understanding of the dashboard's visual layout:
-
-1. **Top Performers by Revenue**:
-   ![Top Performers](path/to/top-performers.png)
-2. **Orders by Country**:
-   ![Orders by Country](path/to/orders-by-country.png)
-3. **Revenue by Occupation**:
-   ![Revenue by Occupation](path/to/revenue-by-occupation.png)
-4. **Monthly Revenue Target Achievement**:
-   ![Revenue Target](path/to/revenue-target.png)
 
 ---
 
