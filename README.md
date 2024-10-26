@@ -85,7 +85,6 @@ The dashboard is organized into multiple sections, each designed to provide targ
      - **Bar Chart**: Visualization of top `N` products based on total revenue.
    - **Insight**: Identifies key revenue drivers and top-performing products for sales strategy.
    -![Screenshot_117](https://github.com/user-attachments/assets/c6efedd5-bddd-4edf-853d-33665bb1d34c)
-
    ## 🛠️ How to Use the Dashboard
 
 ### Setup Instructions
