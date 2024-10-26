@@ -29,7 +29,6 @@ The data model is central to this dashboard, combining multiple tables to suppor
 Below is the data model used in Power BI:
 
 ![Screenshot_110](https://github.com/user-attachments/assets/280c8a70-aaf7-4e9e-8538-b02b4f5d3d57)
-![Screenshot_111](https://github.com/user-attachments/assets/25c3edf4-18dd-437b-9d41-745842246c43)
 
 ---
 
